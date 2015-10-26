@@ -91,7 +91,7 @@ body {
 
   margin: auto;
   margin-top: 90px;
-
+  margin-right: 100px;
   position: relative;
   overflow-y: hidden;
   overflow-x: hidden;
@@ -124,7 +124,7 @@ body {
 
   margin: auto;
   margin-top: 30px;
-  margin-left: 26px;
+  margin-right: 74px;
   position: relative;
   overflow-y: hidden;
   overflow-x: hidden;
@@ -136,7 +136,7 @@ body {
   display: -ms-flexbox;
   display: flex;
   
-    justify-content: center;
+  justify-content: center;
 
 }
 
@@ -145,6 +145,7 @@ body {
   margin: auto;
   margin-top: 30px;
 
+  margin-right: 100px;
   position: relative;
   overflow-y: hidden;
   overflow-x: hidden;
@@ -156,7 +157,7 @@ body {
   display: -ms-flexbox;
   display: flex;
   
-    justify-content: center;
+  justify-content: center;
   
 }
 
