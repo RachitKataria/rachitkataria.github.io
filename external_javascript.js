@@ -113,7 +113,7 @@ window.particlesJS("particles-js", {
       "random": true,
       "straight": false,
       "out_mode": "out",
-      "bounce": true,
+      "bounce": false,
       "attract": {
         "enable": false,
         "rotateX": 65000,
