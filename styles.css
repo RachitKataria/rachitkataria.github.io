@@ -97,7 +97,7 @@ body {
   overflow-x: hidden;
   color: white;
   font-size: 25px;
-  font-family: 'PT Sans';
+  font-family: Consolas;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -127,7 +127,7 @@ body {
   overflow-x: hidden;
   color: white;
   font-size: 25px;
-  font-family: 'PT Sans';
+  font-family: Consolas;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -145,7 +145,7 @@ body {
   overflow-x: hidden;
   color: white;
   font-size: 25px;
-  font-family: 'PT Sans';
+  font-family: Consolas;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
