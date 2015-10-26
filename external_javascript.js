@@ -19,7 +19,7 @@ setInterval(function()
 
 $(function () {
   $("#name").typed({
-    strings: ["^250 rachit kataria"],
+    strings: ["^250 Rachit Kataria"],
     typeSpeed: 50,
     backSpeed: 50,
     showCursor: false,
