@@ -50,7 +50,7 @@ $(document).ready(function () {
 
 
 
-particlesJS.load('particles-js', 'particles.json', function () {
+window.particlesJS.load('particles-js', 'particles.json', function () {
   console.log('callback - particles.js config loaded');
 });
 
@@ -58,7 +58,7 @@ particlesJS.load('particles-js', 'particles.json', function () {
 /* ---- particles.js config ---- */
 
 /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
-particlesJS("particles-js", {
+window.particlesJS("particles-js", {
   "particles": {
     "number": {
       "value": 70,
