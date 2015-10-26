@@ -25,7 +25,7 @@ $(function () {
     showCursor: false,
     callback: function () {
       $("#swap").typed({
-        strings: ["^500 developer", "^500 programmer", "^500 coder", "^500 dreamer"],
+        strings: ["^500 coder", "^500 researcher", "^500 dreamer"],
         typeSpeed: 50,
         backSpeed: 50,
         showCursor: true,
