@@ -49,12 +49,6 @@ $(document).ready(function () {
 });
 
 
-
-window.particlesJS.load('particles-js', 'particles.json', function () {
-  console.log('callback - particles.js config loaded');
-});
-
-
 /* ---- particles.js config ---- */
 
 /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
