@@ -111,19 +111,6 @@ body {
 
 }
 
-
-.linkedin .text { 
-  padding-top: 5px;
-}
-
-.mail .text {
-  padding-top: 5px;
-}
-
-.resume .text {
-  padding-top: 5px;
-}
-
 .resume {
 
   margin: auto;
@@ -164,6 +151,21 @@ body {
   justify-content: center;
   
 }
+
+
+.linkedin .text { 
+  padding-top: 5px;
+}
+
+.mail .text {
+  padding-top: 5px;
+}
+
+.resume .text {
+  padding-top: 5px;
+}
+
+
 
 /*
 
@@ -216,8 +218,8 @@ h1 {
 
 #intro #txt {
   margin-top: 80px;
-  margin-left: 20%;
-  margin-right: 20%;
+  margin-left: 25%;
+  margin-right: 25%;
   font-size: 3vh;
   opacity: 0;
   
