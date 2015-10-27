@@ -91,7 +91,7 @@ body {
 
   margin: auto;
   margin-top: 90px;
-  margin-right: 100px;
+  margin-right: 86px;
   position: relative;
   overflow-y: hidden;
   overflow-x: hidden;
@@ -161,6 +161,7 @@ body {
   
 }
 
+/*
 
 .linkedin>a:hover + .text {
   visibility: visible;
@@ -175,7 +176,9 @@ body {
 .resume>a:hover + .text {
   visibility: visible;
   opacity: 1;
-}
+} 
+
+*/
 
 .img-valign {
   vertical-align: middle;
@@ -184,11 +187,8 @@ body {
 
 
 .text{
-  visibility: hidden;
-  opacity: 0;
-  
-  -webkit-transition: visibility 1s, opacity 1s; 
-  transition: visibility 1s, opacity 1s;
+
+  display: none;
 }
 
 

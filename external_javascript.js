@@ -45,6 +45,13 @@ $(document).ready(function () {
     }, 3500);
 });
 
+$(document).ready(function () {
+    setTimeout(function(){
+        $('.text').fadeIn(1000);
+    }, 3500);
+});
+
+
 
 /* ---- particles.js config ---- */
 
