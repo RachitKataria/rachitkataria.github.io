@@ -43,8 +43,8 @@ body {
 
 #particles-js {
   position: absolute;
-  width: 100%;
-  height: 100%;
+  width: 100vw;
+  height: 100vh;
   background-color: #7DC6F1;
   background-image: url("");
   background-repeat: no-repeat;
@@ -70,7 +70,7 @@ body {
   position: relative;
   overflow-y: hidden;
   overflow-x: hidden;
-  color: white;
+  color: #000080;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
