@@ -25,7 +25,7 @@ $(function () {
     showCursor: false,
     callback: function () {
       $("#swap").typed({
-        strings: ["^500 coder", "^500 scholar", "^500 adventurer"],
+        strings: ["^500 coder", "^500 scholar", "^500 researcher"],
         typeSpeed: 50,
         backSpeed: 50,
         showCursor: true,
@@ -42,7 +42,7 @@ $(function () {
 $(document).ready(function () {
     setTimeout(function(){
         $('.img-valign').fadeIn(1000);
-    }, 2500);
+    }, 3500);
 });
 
 

@@ -219,9 +219,6 @@ h1 {
   
   animation: fadeIn;
   animation-duration: 1s;
-  animation-delay: 2s;
+  animation-delay: 3s;
   animation-fill-mode: forwards;  
-
-  
-
 }
