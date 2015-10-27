@@ -25,7 +25,7 @@ $(function () {
     showCursor: false,
     callback: function () {
       $("#swap").typed({
-        strings: ["^500 coder", "^500 researcher", "^500 leader"],
+        strings: ["^500 coder", "^500 scholar", "^500 adventurer"],
         typeSpeed: 50,
         backSpeed: 50,
         showCursor: true,
@@ -35,9 +35,6 @@ $(function () {
       });
     },
     cursorChar: "_",
-
-
-
   });
 });
 
@@ -45,7 +42,7 @@ $(function () {
 $(document).ready(function () {
     setTimeout(function(){
         $('.img-valign').fadeIn(1000);
-    }, 2000);
+    }, 2500);
 });
 
 
