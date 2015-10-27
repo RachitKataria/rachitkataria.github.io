@@ -97,7 +97,7 @@ body {
   overflow-x: hidden;
   color: white;
   font-size: 25px;
-  font-family: Consolas;
+  font-family: Consolas, Courier;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -130,7 +130,7 @@ body {
   overflow-x: hidden;
   color: white;
   font-size: 25px;
-  font-family: Consolas;
+  font-family: Consolas, Courier;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -151,7 +151,7 @@ body {
   overflow-x: hidden;
   color: white;
   font-size: 25px;
-  font-family: Consolas;
+  font-family: Consolas, Courier;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
