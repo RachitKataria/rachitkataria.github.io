@@ -94,7 +94,7 @@ body {
 .linkedin {
 
   margin: auto;
-  margin-top: 90px;
+  margin-top: 70px;
   margin-right: 86px;
   position: relative;
   overflow-y: hidden;
@@ -135,7 +135,9 @@ body {
 
   margin: auto;
   margin-top: 30px;
-
+  margin-bottom: 30px;
+  
+  
   margin-right: 100px;
   position: relative;
   overflow-y: hidden;
