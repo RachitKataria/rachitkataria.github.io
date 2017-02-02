@@ -8,7 +8,7 @@ setInterval(function()
 {
 	document.getElementById("swap").innerHTML = swapNames[count];
 	count++;
-	
+
 	if(count == 4)
 	{
 		count = 0;
@@ -25,7 +25,7 @@ $(function () {
     showCursor: false,
     callback: function () {
       $("#swap").typed({
-        strings: ["^500 coder", "^500 scholar", "^500 researcher"],
+        strings: ["^500 coder", "^500 researcher", "^500 entrepreneur"],
         typeSpeed: 50,
         backSpeed: 50,
         showCursor: true,
@@ -62,7 +62,7 @@ window.particlesJS("particles-js", {
       "value": 70,
       "density": {
         "enable": true,
-        "value_area": 600
+        "value_area": 700
       }
     },
     "color": {
@@ -106,8 +106,8 @@ window.particlesJS("particles-js", {
     "line_linked": {
       "enable": true,
       "distance": 150,
-      "color": "#123456",
-      "opacity": 0.3,
+      "color": "#ffffff",
+      "opacity": 0.1,
       "width": 1
     },
     "move": {
