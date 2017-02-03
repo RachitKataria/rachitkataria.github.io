@@ -87,7 +87,6 @@
 body {
     margin: 0;
     font: normal 75% 'Raleway';
-    /*font-weight: bold;*/
     font-weight: 300;
 }
 
@@ -140,23 +139,6 @@ body {
     justify-content: center
 }
 
-.linkedin {
-    margin: auto;
-    margin-top: 70px;
-    margin-right: 60px;
-    position: relative;
-    overflow-y: hidden;
-    overflow-x: hidden;
-    color: #ffffe5;
-    font-size: 3vh;
-    font-family: 'Open Sans', Courier;
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    justify-content: center;
-}
-
 .resumeb {
     margin: auto;
     margin-top: 40px;
@@ -181,7 +163,7 @@ body {
     border: 2px solid #ffffe5;
     color: #ffffe5;
     transition-duration: 0.5s;
-    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
     outline: none;
     user-select: none;
     display: block;
