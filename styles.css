@@ -197,11 +197,11 @@ body {
     margin-top: 20px;
     vertical-align: middle;
     display: none;
-    transition: transform 1s;
+    transition: transform 0.5s;
 }
 
 .img-valign:hover {
-    transform: translateY(-8px);
+    transform: translateY(-5px);
 }
 
 .resume {
