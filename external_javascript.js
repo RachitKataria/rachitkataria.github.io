@@ -8,7 +8,7 @@ $(function() {
         showCursor: false,
         callback: function() {
             $("#swap").typed({
-                strings: ["^500 coder", "^500 researcher", "^500 entrepreneur"],
+                strings: ["^500 programmer", "^500 entrepreneur", "^500 problem solver"],
                 typeSpeed: 50,
                 backSpeed: 50,
                 showCursor: true,
